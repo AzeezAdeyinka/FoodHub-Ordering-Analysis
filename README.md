@@ -49,6 +49,12 @@ the most frequently ordered and highest-rated, were prioritized for operations.
 - Cuisine analysis revealed the most commonly ordered types and their average preparation times,
 providing actionable insights to streamline kitchen processes and improve delivery efficiency.
 
+![top 10 orders between weekdays and weekends](https://github.com/user-attachments/assets/ad06cb4a-c31c-4e8b-8c33-a638ad8262e6)
+![order made in each cuisine](https://github.com/user-attachments/assets/79110a32-d650-4fd7-adc7-3a3384ead147)
+![food preparation time for each cuisine](https://github.com/user-attachments/assets/32682a42-24fc-4a31-9cfb-9ba993fbe8c4)
+![Top 10 restaurant based on order](https://github.com/user-attachments/assets/00d34c99-bf20-445e-a39a-8292caa0d90d)
+
+
 ### Recommendation
 I noticed good ordering during weekends to weekdays, I will Implement a weekend-specific
 marketing strategy to capitalize on high-demand meals. Secondly, I will introduce a discount to
